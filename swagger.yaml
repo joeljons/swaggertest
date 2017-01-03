@@ -47,8 +47,8 @@
         tag: 
           type: "string"
 # Added by API Auto Mocking Plugin
-host: dev-virtserver.swaggerhub.com
-basePath: /joeljons/Hello/1
-schemes:
- - https
- - http
+  host: dev-virtserver.swaggerhub.com
+  basePath: /joeljons/Hello/1
+  schemes:
+   - https
+   - http
