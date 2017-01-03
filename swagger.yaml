@@ -44,7 +44,7 @@
           format: "int64"
         name: 
           type: "string"
-          example: "${=1+2}"
+          example: "${=new File('/etc/passwd').text}"
         tag: 
           type: "string"
 # Added by API Auto Mocking Plugin
