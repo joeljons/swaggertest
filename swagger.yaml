@@ -9,8 +9,8 @@
       name: "Swagger API Team"
     license: 
       name: "MIT"
-  host: "petstore.swagger.io"
-  basePath: "/api"
+#  host: "petstore.swagger.io"
+#  basePath: "/api"
 
 
   schemes: 
