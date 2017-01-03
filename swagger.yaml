@@ -44,7 +44,7 @@
           format: "int64"
         name: 
           type: "string"
-          example: hejsan
+          example: "hejsan"
         tag: 
           type: "string"
 # Added by API Auto Mocking Plugin
