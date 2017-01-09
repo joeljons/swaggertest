@@ -1,4 +1,4 @@
----apa
+---
   swagger: "2.0"
   info: 
     version: "1"
@@ -19,6 +19,7 @@
     - "application/json"
   produces: 
     - "application/json"
+  paths: {}
   paths:
     /pets: 
       get: 
